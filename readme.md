@@ -1,6 +1,6 @@
-# All New SATRIA Project
+# CIESA Project
 
-All New SATRIA is a web application with feature to control "Surat Jalan".
+CIESA is a web application with feature to control "Invoice".
 
 ## Contributing
 
@@ -12,4 +12,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The All New SATRIA Project is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+The CIESA is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
